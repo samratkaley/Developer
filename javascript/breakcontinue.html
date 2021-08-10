@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Break and Continue</title>
+</head>
+<body>
+    <script>
+        var a = 0;
+        var br = "<br/>";
+
+        do{
+            if(a==5){
+                a++;
+                // break; // To break the loop and exit
+                continue; // To continue and to cross verify and skip the current iteration
+            }document.write("value of a is: "+a);
+            document.write(br);
+            a++;
+        }while(a<10);
+    </script>
+</body>
+</html>

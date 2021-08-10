@@ -1,4 +1,4 @@
-class Sam_002
+class Ifelse_04
 {
 	public static void main(String args[])
 	{

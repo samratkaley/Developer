@@ -1,4 +1,4 @@
-public class Sam_001{
+public class Operation_03{
 public static void main(String args[]){
 
 int a = 20;

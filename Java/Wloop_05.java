@@ -1,4 +1,4 @@
-class Wloop{
+class Wloop_05{
 public static void main(String args[]){
 
 	int a = 10;
